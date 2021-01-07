@@ -15,6 +15,7 @@ BPSK的调制方式，数据帧的数量可以自定义，该目录下的bpsk-da
 
 # 4 环境
 TensorFlow-gpu 1.15
+
 python 3.6
 
 # 5 运行
